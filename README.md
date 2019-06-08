@@ -44,7 +44,9 @@ To get everything running in this project, use ```pip install -r requirements.tx
 
 ## Project Stack
 
-![Python_Stack](https://user-images.githubusercontent.com/19881320/54723910-6457a880-4b3f-11e9-850b-8c2be2ff62a8.jpg)
+<p align="center">
+  <img width="180" src="https://user-images.githubusercontent.com/19881320/54723910-6457a880-4b3f-11e9-850b-8c2be2ff62a8.jpg">
+</p>
 
 ### Language
 - Python 3.6 (replacing legacy Python 2.7 in 2020)
